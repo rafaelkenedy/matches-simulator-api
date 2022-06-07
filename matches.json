@@ -3,12 +3,12 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "Imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.png"
+      "Imagem": "https://www.netflu.com.br/wp-content/uploads/2016/04/maracana.png"
     },
     "mandante": {
       "nome": "Brasil",
       "forca": 5,
-      "imagem": "TODO"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.png"
     },
     "visitante": {
       "nome": "Argentina",
