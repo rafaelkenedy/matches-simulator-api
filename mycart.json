@@ -1,14 +1,14 @@
-[
+
   {
-    "id": "1",
+    "id": "XYZ",
     "prname": "Panqueca",
     "primage": "https://content.paodeacucar.com/wp-content/uploads/2019/05/receitas-de-panqueca-frango.jpg",
-    "prprice": "10.99"
+    "prprice": "789"
   },
   {
-    "id": "2",
-    "prname": "Panqueca de carne",
+    "id": "212",
+    "prname": "XYZ",
     "primage": "https://content.paodeacucar.com/wp-content/uploads/2019/05/receitas-de-panqueca-frango.jpg",
-    "prprice": "10.99"
+    "prprice": "1500
   }  
-]
+
