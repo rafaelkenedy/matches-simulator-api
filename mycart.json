@@ -4,15 +4,21 @@
     {
       "id": "XYZ",
       "prname": "Panqueca",
-      "primage": "null",
+      "primage": "https://renata.com.br/images/receitas/22/renata-imagem-receitas-panqueca-de-carne-moida-share.jpg",
       "prprice": "789"
     },
     {
       "id": "212",
       "prname": "XYZ",
-      "primage": "null",
-      "prprice": "1500"
-    }  
+      "primage": "https://renata.com.br/images/receitas/22/renata-imagem-receitas-panqueca-de-carne-moida-share.jpg",
+      "prprice": "1900"
+    },
+    {
+      "id": "312",
+      "prname": "XYZ",
+      "primage": "https://renata.com.br/images/receitas/22/renata-imagem-receitas-panqueca-de-carne-moida-share.jpg",
+      "prprice": "1700"
+    } 
 
 ]
 
