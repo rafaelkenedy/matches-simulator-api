@@ -1,14 +1,19 @@
 
+[
+  product:
   {
-    "id": "XYZ",
-    "prname": "Panqueca",
-    "primage": "https://content.paodeacucar.com/wp-content/uploads/2019/05/receitas-de-panqueca-frango.jpg",
-    "prprice": "789"
-  },
-  {
-    "id": "212",
-    "prname": "XYZ",
-    "primage": "https://content.paodeacucar.com/wp-content/uploads/2019/05/receitas-de-panqueca-frango.jpg",
-    "prprice": "1500"
-  }  
+    {
+      "id": "XYZ",
+      "prname": "Panqueca",
+      "primage": "https://content.paodeacucar.com/wp-content/uploads/2019/05/receitas-de-panqueca-frango.jpg",
+      "prprice": "789"
+    },
+    {
+      "id": "212",
+      "prname": "XYZ",
+      "primage": "https://content.paodeacucar.com/wp-content/uploads/2019/05/receitas-de-panqueca-frango.jpg",
+      "prprice": "1500"
+    }  
+  }
+]
 
